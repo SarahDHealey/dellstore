@@ -1,0 +1,2 @@
+# dellstore
+sql queries work
